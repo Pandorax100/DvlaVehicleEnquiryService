@@ -12,6 +12,14 @@ For more information about the DVLA Vehicle Enquiry Service API visit [their web
 
 In order to use this project an API key from the DVLA is required. For more information on how to obtain your API key visit the [DVLA website](https://developer-portal.driver-vehicle-licensing.api.gov.uk/apis/vehicle-enquiry-service/vehicle-enquiry-service-description.html#vehicle-enquiry-service-api)
 
+### Install the NuGet package
+
+Run the following command to install the NuGet package.
+
+```
+Install-Package Pandorax.Dvla.VehicleEnquiryService
+```
+
 ### Configure the service
 
 In your startup class add the DVLA Vehicle Enquiry Service
