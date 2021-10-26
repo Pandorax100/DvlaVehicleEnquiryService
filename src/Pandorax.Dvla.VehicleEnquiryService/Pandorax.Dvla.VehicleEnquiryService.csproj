@@ -5,6 +5,14 @@
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <Version>1.0.0-alpha1</Version>
+    <Authors>Liam</Authors>
+    <Description>An API client to access the DVLA Vehicle Enquiry Service
+
+The DVLA Vehicle Enquiry API is a RESTful service that provides vehicle details of a specified vehicle. It uses the vehicle registration number as input to search and provide details of the vehicle</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Pandorax100/DvlaVehicleEnquiryService</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Pandorax100/DvlaVehicleEnquiryService</RepositoryUrl>
+    <PackageId>Pandorax.Dvla.VehicleEnquiryService</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
